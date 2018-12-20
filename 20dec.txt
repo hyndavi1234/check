@@ -8,3 +8,4 @@ remote rep adding
 >>>>>>> 286eedc150eb6ae2cee0addb6e723b67f3948beb
 global rep adding 2
 local rep adding 3
+global rep adding 4
