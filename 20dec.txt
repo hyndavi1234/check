@@ -1,4 +1,8 @@
 llllllllllllllllllllll
 oooooooooooooooooooooo
 llllllllllllllllllllll
+<<<<<<< HEAD
 local rep adding
+=======
+remote rep adding
+>>>>>>> 286eedc150eb6ae2cee0addb6e723b67f3948beb
